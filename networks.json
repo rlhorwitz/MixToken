@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "MixTokenV1": {
+      "address": "0x83Ff31Fc6b0C8f37D69a0979F066512A3A3B9f3e",
+      "startBlock": 0
+    }
+  }
+}
